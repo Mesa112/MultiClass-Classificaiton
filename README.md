@@ -68,44 +68,6 @@ The model was trained on the PASCAL VOC dataset with:
 └── dataset.yaml            # Dataset configuration
 ```
 
-## Getting Started
-
-### Prerequisites
-- Python 3.8+
-- PyTorch 1.7+
-- CUDA-compatible GPU (recommended)
-- Requirements listed in `requirements.txt`
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Mesa112/MultiClass-Classificaiton.git
-cd MultiClass-Classificaiton
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Download pre-trained weights:
-```bash
-wget https://github.com/ultralytics/yolov8/releases/download/v8.0.0/yolov8n.pt
-```
-
-### Usage
-
-1. For training:
-```bash
-python scripts/train.py --data dataset.yaml --epochs 20 --batch-size 16
-```
-
-2. For inference:
-```bash
-python scripts/detect.py --source images/
-```
-
 ## Performance Metrics
 
 - **mAP@50**: 0.85
