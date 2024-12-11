@@ -17,9 +17,9 @@ This project implements a multi-label object detection system using YOLOv8, trai
       <em>Urban Environment Detection</em>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/Mesa112/MultiClass-Classificaiton/raw/main/Multi_Class%20Classification/runs/detect/predict/WhatsApp%20Image%202024-12-09%20at%2014.15.30%20(1).jpg" width="100%">
+      <img src="https://github.com/Mesa112/MultiClass-Classificaiton/blob/main/Multi_Class%20Classification/runs/detect/predict/WhatsApp%20Image%202024-12-09%20at%2014.15.28%20(1).jpg" width="100%">
       <br>
-      <em>Multi-Object Detection</em>
+      <em>Animal Detection</em>
     </td>
   </tr>
 </table>
