@@ -4,20 +4,25 @@ This project focuses on multi-label object detection using the YOLOv8 model. The
 
 ## Detection Results
 
-<div align="center">
-  <img src="https://github.com/Mesa112/MultiClass-Classificaiton/raw/main/Multi_Class%20Classification/runs/detect/predict/WhatsApp%20Image%202024-12-09%20at%2014.15.26.jpg" width="600">
-  <p><i>Detection Example 1: Identifying objects in a natural setting</i></p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/Mesa112/MultiClass-Classificaiton/raw/main/Multi_Class%20Classification/runs/detect/predict/WhatsApp%20Image%202024-12-09%20at%2014.15.28.jpg" width="600">
-  <p><i>Detection Example 2: Multiple object detection with confidence scores</i></p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/Mesa112/MultiClass-Classificaiton/raw/main/Multi_Class%20Classification/runs/detect/predict/WhatsApp%20Image%202024-12-09%20at%2014.15.30%20(1).jpg" width="600">
-  <p><i>Detection Example 3: Object detection with bounding boxes</i></p>
-</div>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github.com/Mesa112/MultiClass-Classificaiton/raw/main/Multi_Class%20Classification/runs/detect/predict/WhatsApp%20Image%202024-12-09%20at%2014.15.26.jpg" width="100%">
+      <br>
+      <em>Example 1</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/Mesa112/MultiClass-Classificaiton/raw/main/Multi_Class%20Classification/runs/detect/predict/WhatsApp%20Image%202024-12-09%20at%2014.15.28.jpg" width="100%">
+      <br>
+      <em>Example 2</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/Mesa112/MultiClass-Classificaiton/blob/main/Multi_Class%20Classification/runs/detect/predict/WhatsApp%20Image%202024-12-09%20at%2014.15.28%20(1).jpg" width="100%">
+      <br>
+      <em>Example 3</em>
+    </td>
+  </tr>
+</table>
 
 ## Features
 
