@@ -52,20 +52,12 @@ The model was trained on the PASCAL VOC dataset with:
 ## Project Structure
 
 ```
-├── dataset/                    # Training and validation datasets
-│   ├── train/                 # Training images and labels
-│   └── val/                   # Validation images and labels
-├── scripts/                   # Processing and evaluation scripts
-│   ├── preprocess.py         # VOC to YOLO format converter
-│   ├── train.py             # Model training script
-│   └── evaluate.py          # Performance evaluation
-├── models/                   # Model weights
-│   └── yolov8n.pt          # YOLOv8 weights
-├── results/                 # Performance metrics
-│   ├── metrics.png         # Training metrics
-│   ├── confusion_matrix.png
-│   └── precision_recall.png
-└── dataset.yaml            # Dataset configuration
+├── app.ipynb                      # Main notebook with all functionality(VOC to YOLO, Model Training, Performance Evaluation)
+├── dataset/                         # Training and validation datasets
+│   ├── train/                      # Training images and labels
+│   └── val/                        # Validation images and labels
+├── models/                         # Saved model weights
+└── results/                        # Output visualizations and metrics       
 ```
 
 ## Performance Metrics
